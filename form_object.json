@@ -1,0 +1,45 @@
+{
+"json_form": {
+"form_name":"",
+"container_code":"",
+"search_engine_facets":""
+},
+"form_input_data":[
+{
+"input_name":"",
+"input_type":"text",
+"input_value":"",
+"input_placeholder":"",
+"mobile_classes":"",
+"desktop_classes":""
+},
+
+{
+"input_name":"",
+"input_type":"select",
+"input_data":"https://example.com",
+"input_data_name":"",
+"input_data_type":"",
+"selected_option":"Select Value",
+"mobile_classes":"",
+"desktop_classes":""
+},
+{
+"input_name":"",
+"input_type":"select",
+"input_data":"https://example.com/data",
+"input_data_name":"",
+"input_data_type":"",
+"input_data_description":"",
+"input_value":"",
+"selected_option":"Select Value",
+"has_children":true,
+"has_grouped_input":true,
+"grouped_input_name":"",
+"grouped_input_description":"",
+"mobile_classes":"",
+"desktop_classes":""
+}
+]
+
+}
