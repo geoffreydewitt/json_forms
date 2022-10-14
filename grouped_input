@@ -8,9 +8,7 @@
 "input_name":"",
 "input_type":"text",
 "input_value":"",
-"input_placeholder":"",
-"mobile_classes":"",
-"desktop_classes":""
+"input_placeholder":""
 },
 {
 "input_name":"",
@@ -18,9 +16,7 @@
 "input_data":"https://example.com",
 "input_data_name":"",
 "input_data_type":"",
-"selected_option":"Select Value",
-"mobile_classes":"",
-"desktop_classes":""
+"selected_option":"Select Value"
 }
 ]
 }
